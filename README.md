@@ -1,6 +1,6 @@
 ### Hi there, I'm Adhithya 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://adhithya.ml)
+[![Website](https://img.shields.io/website?label=adhithya.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://adhithya.ml)
 
 ## I'm a budding electrical engineer, Hobby programmer!
 
