@@ -5,8 +5,7 @@
 ## I'm a budding electrical engineer, Hobby programmer!
 
 - 🔭 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To learn RUST
+- 🥅 2022 Goals: To learn graphics programming with RUST
 - ⚡ Fun fact: I love to animate and play piano
 
 [<img align="left" alt="adhithya.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
