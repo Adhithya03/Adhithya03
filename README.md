@@ -1,7 +1,5 @@
 ### Hi there, I'm Adhithya 👋 
 
-[![Website](https://img.shields.io/website?label=adhithya.ml&style=for-the-badge&url=https%3A%2F%2Fadhithya.ml)](https://adhithya.ml)
-
 ## I'm a budding electrical engineer, Hobby programmer!
 
 - 🔭 I’m currently learning LaTex.
