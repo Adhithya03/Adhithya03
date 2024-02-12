@@ -1,6 +1,5 @@
 ### Hi there, I'm Adhithya 👋 
 
-## I'm a budding electrical engineer, Hobby programmer!
-
 ## On-going Projects 
-- Building hydroelectric generator simulator. In Godot Game engine. 
+- Building hydroelectric plant simulator. In Godot game engine.
+- Field oriented control of induction motor with C2000 microcontroller.
