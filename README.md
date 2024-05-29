@@ -2,4 +2,4 @@
 
 ## On-going Projects 
 - Building hydroelectric power plant simulator. In Godot game engine.
-- Building https://airgapflux.in
+- Helping electrical enginners with https://airgapflux.in
